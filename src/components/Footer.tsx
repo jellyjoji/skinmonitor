@@ -13,37 +13,101 @@ export function Footer() {
               <span className="text-white">SkinMonitor AI</span>
             </div>
             <p className="text-sm text-gray-400">
-              Revolutionary AI-powered monitoring system for artificial skin experiments.
+              Revolutionary AI-powered monitoring system for artificial skin
+              experiments.
             </p>
           </div>
 
           <div>
             <h4 className="text-white mb-4">Product</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#features" className="hover:text-white transition-colors">Features</a></li>
-              <li><a href="#solution" className="hover:text-white transition-colors">How It Works</a></li>
-              <li><a href="#comparison" className="hover:text-white transition-colors">Comparison</a></li>
-              <li><a href="#impact" className="hover:text-white transition-colors">Impact</a></li>
+              <li>
+                <a
+                  href="#features"
+                  className="hover:text-white transition-colors"
+                >
+                  Features
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#solution"
+                  className="hover:text-white transition-colors"
+                >
+                  How It Works
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#comparison"
+                  className="hover:text-white transition-colors"
+                >
+                  Comparison
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#impact"
+                  className="hover:text-white transition-colors"
+                >
+                  Impact
+                </a>
+              </li>
             </ul>
           </div>
 
           <div>
             <h4 className="text-white mb-4">Company</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="hover:text-white transition-colors">About Us</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Careers</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Partners</a></li>
-              <li><a href="#contact" className="hover:text-white transition-colors">Contact</a></li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  About Us
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  Careers
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  Partners
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#contact"
+                  className="hover:text-white transition-colors"
+                >
+                  Contact
+                </a>
+              </li>
             </ul>
           </div>
 
           <div>
             <h4 className="text-white mb-4">Legal</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Terms of Service</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Cookie Policy</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Security</a></li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  Privacy Policy
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  Terms of Service
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  Cookie Policy
+                </a>
+              </li>
+              <li>
+                <a href="#" className="hover:text-white transition-colors">
+                  Security
+                </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -53,9 +117,28 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
           <p>© 2025 SkinMonitor AI. All rights reserved.</p>
           <div className="flex gap-6">
-            <a href="mailto:joji.the.jungle@gmail.com" className="hover:text-white transition-colors">Email</a>
-            <a href="#" className="hover:text-white transition-colors">LinkedIn</a>
-            <a href="#" className="hover:text-white transition-colors">GitHub</a>
+            <a
+              href="mailto:joji.the.jungle@gmail.com"
+              className="hover:text-white transition-colors"
+            >
+              Email
+            </a>
+            <a
+              href="https://www.linkedin.com/in/jellyjoji"
+              className="hover:text-white transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              LinkedIn
+            </a>
+            <a
+              href="https://github.com/jellyjoji"
+              className="hover:text-white transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub
+            </a>
           </div>
         </div>
       </div>
