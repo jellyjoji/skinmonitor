@@ -7,7 +7,7 @@
 ## 1) Cover
 
 - **Title:** AI-Based Artificial Skin Abnormal Reaction Monitoring System
-- **Subtitle:** Hybrid Image + Chemical AI for Abnormal Reaction Detection
+- **Subtitle:** Hybrid Image and Chemical AI for Abnormal Reaction Detection
 
 <aside>
 🧬 AI • Imaging • Chemistry
@@ -42,10 +42,10 @@
 ## 4) Business Overview
 
 - **Objective:** Efficiently and accurately detect abnormal reactions in artificial skin experiments and provide instant alerts.
-- **Core Idea:**
+  - **Core Idea:**
   - Focused on a **hybrid, two-step verification system**
-  - **Image-based AI** → triggers **chemical-based AI automatic analysis** upon abnormal detection → alert sent + **visualized data provided**
-- **Differentiation:** Uses standard artificial skin products + **AI-based abnormal detection, automated alerts, automation integration, and visualized reports**, maximizing experimental efficiency and safety.
+  - **Image-based AI** → triggers **chemical-based AI automatic analysis** upon abnormal detection → alert sent and **visualized data provided**
+- **Differentiation:** Uses standard artificial skin products and **AI-based abnormal detection, automated alerts, automation integration, and visualized reports**, maximizing experimental efficiency and safety.
 
 <aside>
 🧠 Hybrid AI Core
@@ -121,9 +121,9 @@
 | -------------------------- | --------------------------------------------------- | -------------------------------------------- |
 | Detection Method           | Single sensor or standalone image/chemical analysis | Hybrid two-step (Image → Chemical)           |
 | Accuracy / False Positives | Low to moderate                                     | Minimized false positives, improved accuracy |
-| Experimental Automation    | Limited                                             | Auto records + reporting + viz               |
+| Experimental Automation    | Limited                                             | Auto records, reporting, and visualization   |
 | Researcher Intervention    | High                                                | Minimized → efficiency ↑                     |
-| Data Utilization           | Individual collection                               | Integrated mgmt + AI viz                     |
+| Data Utilization           | Individual collection                               | Integrated management and AI visualization   |
 
 <aside>
 🏁 Key Points: Hybrid AI • Automation • Visualization • Customizable B2B
@@ -133,21 +133,21 @@
 
 ## 9) Expected Impact (Quantitative)
 
-- Immediate abnormal detection → experimental safety increased by **30–50%**
-- Reduced costs for repeated experiments and management by **20–40%**
-- Research efficiency increased by **25–35%** through data visualization
-- AI-based technology → data reliability **>95%**, false positive rate **<10%**
+- Immediate abnormal detection → experimental safety increased by **30 to 50 percent**
+- Reduced costs for repeated experiments and management by **20 to 40 percent**
+- Research efficiency increased by **25 to 35 percent** through data visualization
+- AI-based technology → data reliability **greater than 95 percent**, false positive rate **less than 10 percent**
 
 <aside>
-📊 Safety +30–50%
+📊 Safety increase of 30 to 50 percent
 </aside>
 
 <aside>
-💸 Cost -20–40%
+💸 Cost reduction of 20 to 40 percent
 </aside>
 
 <aside>
-⚡ Efficiency +25–35% 
+⚡ Efficiency increase of 25 to 35 percent
 </aside>
 
 ## Running the code

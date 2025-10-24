@@ -6,7 +6,7 @@ export function Hero() {
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      element.scrollIntoView({ behavior: "smooth" });
     }
   };
 
@@ -22,14 +22,19 @@ export function Hero() {
               AI-Based Artificial Skin Abnormal Reaction Monitoring System
             </h1>
             <p className="mb-8 text-gray-600">
-              Revolutionize your artificial skin experiments with our hybrid two-step AI verification system. 
-              Detect abnormalities instantly, minimize false positives, and maximize research efficiency.
+              Revolutionize your artificial skin experiments with our hybrid
+              two-step AI verification system. Detect abnormalities instantly,
+              minimize false positives, and maximize research efficiency.
             </p>
             <div className="flex flex-wrap gap-4">
-              <Button size="lg" onClick={() => scrollToSection('contact')}>
+              <Button size="lg" onClick={() => scrollToSection("contact")}>
                 Request Demo <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
-              <Button size="lg" variant="outline" onClick={() => scrollToSection('solution')}>
+              <Button
+                size="lg"
+                variant="outline"
+                onClick={() => scrollToSection("solution")}
+              >
                 <Play className="mr-2 h-4 w-4" /> How It Works
               </Button>
             </div>
@@ -50,7 +55,7 @@ export function Hero() {
           </div>
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
-              <ImageWithFallback 
+              <ImageWithFallback
                 src="https://images.unsplash.com/photo-1758685848543-5c8ba81bc822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiaW90ZWNoJTIwbGFib3JhdG9yeSUyMGV4cGVyaW1lbnR8ZW58MXx8fHwxNzYxMzAzOTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
                 alt="Biotech Laboratory Experiment"
                 className="w-full h-full object-cover"
